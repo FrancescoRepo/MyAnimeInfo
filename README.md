@@ -1,5 +1,5 @@
 # MyAnimeInfo
-NOTE: This app use Anilist API: https://anilist.gitbook.io/anilist-apiv2-docs/
+NOTE: This app use Anilist API https://anilist.gitbook.io/anilist-apiv2-docs/
 
 My Anime Info is an App, that can run both on Android and iOS thanks to flutter framework and its main purpose is to give to the user the possibility to discover Anime and Manga, with all the information about them.
 
