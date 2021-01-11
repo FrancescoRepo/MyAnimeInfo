@@ -17,3 +17,6 @@ My Anime Info is an App, that can run both on Android and iOS thanks to flutter 
   This command will download all the dependencies necessary for the app
  
 - Run the application
+
+## License
+MyAnimeInfo is available under the MIT license. See the LICENSE file for more info.
